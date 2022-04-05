@@ -1,5 +1,5 @@
 """
-Tic Tac Toe Player
+tictactoe Player
 """
 import copy
 import random
